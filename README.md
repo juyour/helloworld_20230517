@@ -21,7 +21,7 @@
   - b : Batch 모드로 작동
   - 1 : CPU Core별로 사용량 보여줌
   
-  - [top -b -n 1 실행 결과](https://ucfbfc7788df9a3ed7117c485c95.dl.dropboxusercontent.com/cd/0/inline/B8Wxn3zrG9w1EzNcqe8GdXv3OPB62rAQYRGYI6-OP_0yaG3AplX4oXzNHgLPQSiOLVRey53e6nizK_9GZvhg5ZkLfWEYt1iW2FNMEKxGKiZe9s1ra_D4lrHYfyP73mM6jQ4oUX4hbM30ROsvOL2iRVM3LbKWhK0ohRCUCwbvFVOqzg/file#)
+  - ![top -b -n 1 실행 결과(alt)](file:///home/chosun/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7,%202023-05-22%2009-07-44.png)
   
   - 3:58 : 3시간 58분 전에 서버가 구동
   - load average : 현재 시스템이 얼마나 일을 하는지를 나타냄. 3개의 숫자는 1분, 5분, 15분 간의 평균 실행/대기 중인 프로세스의 수. CPU   코어수 보다 적으면 문제 없음
